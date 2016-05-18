@@ -1,2 +1,3 @@
 # hello-world
-Test github
+Test GitHub
+test branch function of GitHub
